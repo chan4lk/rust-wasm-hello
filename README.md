@@ -2,6 +2,8 @@
 
   <h1><code>wasm-pack-template</code></h1>
 
+  <strong>Create with <a href="https://rustwasm.github.io/book/game-of-life/hello-world.html">Guide</a></strong>
+  <br/>
   <strong>A template for kick starting a Rust and WebAssembly project using <a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a>.</strong>
 
   <p>
